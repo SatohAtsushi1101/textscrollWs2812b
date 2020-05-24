@@ -13,11 +13,15 @@ You can make a attractive sign bord cheeply.
 
 # Requirement
 Arduino uno
+
 Longruner WS2812b 32x8LED panel
 
 *Adafruit_GFX.h
+
 *Adafruit_NeoMatrix.h
+
 *Adafruit_NeoPixel.h
+
 
 # Usage
 
