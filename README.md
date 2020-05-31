@@ -43,4 +43,4 @@ Be careful of voltage
 Satoh Atushi
 
 # License
-none
+MIT License
