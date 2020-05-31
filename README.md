@@ -10,12 +10,16 @@ https://www.instagram.com/p/B-oo5A8npc8/?utm_source=ig_web_copy_link
 # Features
 
 You can make a attractive sign bord cheeply.
+
+
 安くそして簡単にサインボードを作りたい。
 # Requirement
 Arduino uno
 
 Longruner WS2812b 32x8LED panel
+　
 https://amzn.to/3chq82E
+
 ローカルで開発されている方は下記のライブラリが必要です。
 
 *Adafruit_GFX.h
